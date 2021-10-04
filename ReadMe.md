@@ -50,4 +50,4 @@ will be created and powers will be determined.For example,the user's authority t
 ![](https://github.com/ferhatacikalin/Music-App/blob/main/SS/Screenshot_21.png?raw=true)
 
 ## EER -Diagram
-![](https://github.com/ferhatacikalin/Music_App/blob/main/SS/Eer.png?raw=true)
+![](https://github.com/ferhatacikalin/Music-App/blob/main/SS/Eer.png?raw=true)
