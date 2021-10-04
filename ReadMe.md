@@ -1,6 +1,6 @@
 # 🎵Music App
 
-![Login Screen](https://github.com/ferhatacikalin/Music_App/blob/main/SS/Screenshot_25.png?raw=true)
+![Login Screen](https://github.com/ferhatacikalin/Music-App/blob/main/SS/Screenshot_25.png?raw=true)
 
 ## 💯The Goal of The Project💯
 - Users (Premium and regular users) will listen to the song.
@@ -27,27 +27,27 @@ will be created and powers will be determined.For example,the user's authority t
 
 ## Some Screenshot From the Project
 
-![Regular User Login](https://github.com/ferhatacikalin/Music_App/blob/main/SS/Screenshot_1.png?raw=true)
-![Regular user's Pop Jazz and Classic Playlist](https://github.com/ferhatacikalin/Music_App/blob/main/SS/Screenshot_2.png?raw=true)
-![](https://github.com/ferhatacikalin/Music_App/blob/main/SS/Screenshot_3.png?raw=true)
-![](https://github.com/ferhatacikalin/Music_App/blob/main/SS/Screenshot_4.png?raw=true)
-![](https://github.com/ferhatacikalin/Music_App/blob/main/SS/Screenshot_5.png?raw=true)
-![](https://github.com/ferhatacikalin/Music_App/blob/main/SS/Screenshot_6.png?raw=true)
-![](https://github.com/ferhatacikalin/Music_App/blob/main/SS/Screenshot_7.png?raw=true)
-![](https://github.com/ferhatacikalin/Music_App/blob/main/SS/Screenshot_8.png?raw=true)
-![Premium User Login ](https://github.com/ferhatacikalin/Music_App/blob/main/SS/Screenshot_9.png?raw=true)
-![](https://github.com/ferhatacikalin/Music_App/blob/main/SS/Screenshot_10.png?raw=true)
-![](https://github.com/ferhatacikalin/Music_App/blob/main/SS/Screenshot_11.png?raw=true)
-![](https://github.com/ferhatacikalin/Music_App/blob/main/SS/Screenshot_12.png?raw=true)
-![](https://github.com/ferhatacikalin/Music_App/blob/main/SS/Screenshot_13.png?raw=true)
-![](https://github.com/ferhatacikalin/Music_App/blob/main/SS/Screenshot_14.png?raw=true)
-![](https://github.com/ferhatacikalin/Music_App/blob/main/SS/Screenshot_15.png?raw=true)
-![](https://github.com/ferhatacikalin/Music_App/blob/main/SS/Screenshot_16.png?raw=true)
-![](https://github.com/ferhatacikalin/Music_App/blob/main/SS/Screenshot_17.png?raw=true)
-![](https://github.com/ferhatacikalin/Music_App/blob/main/SS/Screenshot_18.png?raw=true)
-![](https://github.com/ferhatacikalin/Music_App/blob/main/SS/Screenshot_19.png?raw=true)
-![](https://github.com/ferhatacikalin/Music_App/blob/main/SS/Screenshot_20.png?raw=true)
-![](https://github.com/ferhatacikalin/Music_App/blob/main/SS/Screenshot_21.png?raw=true)
+![Regular User Login](https://github.com/ferhatacikalin/Music-App/blob/main/SS/Screenshot_1.png?raw=true)
+![Regular user's Pop Jazz and Classic Playlist](https://github.com/ferhatacikalin/Music-App/blob/main/SS/Screenshot_2.png?raw=true)
+![](https://github.com/ferhatacikalin/Music-App/blob/main/SS/Screenshot_3.png?raw=true)
+![](https://github.com/ferhatacikalin/Music-App/blob/main/SS/Screenshot_4.png?raw=true)
+![](https://github.com/ferhatacikalin/Music-App/blob/main/SS/Screenshot_5.png?raw=true)
+![](https://github.com/ferhatacikalin/Music-App/blob/main/SS/Screenshot_6.png?raw=true)
+![](https://github.com/ferhatacikalin/Music-App/blob/main/SS/Screenshot_7.png?raw=true)
+![](https://github.com/ferhatacikalin/Music-App/blob/main/SS/Screenshot_8.png?raw=true)
+![Premium User Login ](https://github.com/ferhatacikalin/Music-App/blob/main/SS/Screenshot_9.png?raw=true)
+![](https://github.com/ferhatacikalin/Music-App/blob/main/SS/Screenshot_10.png?raw=true)
+![](https://github.com/ferhatacikalin/Music-App/blob/main/SS/Screenshot_11.png?raw=true)
+![](https://github.com/ferhatacikalin/Music-App/blob/main/SS/Screenshot_12.png?raw=true)
+![](https://github.com/ferhatacikalin/Music-App/blob/main/SS/Screenshot_13.png?raw=true)
+![](https://github.com/ferhatacikalin/Music-App/blob/main/SS/Screenshot_14.png?raw=true)
+![](https://github.com/ferhatacikalin/Music-App/blob/main/SS/Screenshot_15.png?raw=true)
+![](https://github.com/ferhatacikalin/Music-App/blob/main/SS/Screenshot_16.png?raw=true)
+![](https://github.com/ferhatacikalin/Music-App/blob/main/SS/Screenshot_17.png?raw=true)
+![](https://github.com/ferhatacikalin/Music-App/blob/main/SS/Screenshot_18.png?raw=true)
+![](https://github.com/ferhatacikalin/Music-App/blob/main/SS/Screenshot_19.png?raw=true)
+![](https://github.com/ferhatacikalin/Music-App/blob/main/SS/Screenshot_20.png?raw=true)
+![](https://github.com/ferhatacikalin/Music-App/blob/main/SS/Screenshot_21.png?raw=true)
 
 ## EER -Diagram
 ![](https://github.com/ferhatacikalin/Music_App/blob/main/SS/Eer.png?raw=true)
